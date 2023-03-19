@@ -1,5 +1,5 @@
 {
-  "name": "br33f/php-ga4-mp",
+  "name": "bnoss/php-ga4-measurement-protocol",
   "description": "PHP GoogleAnalytics4 Measurement Protocol Library",
   "minimum-stability": "stable",
   "license": "MIT",
